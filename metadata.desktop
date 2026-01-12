@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Animated Foundation Login
+Description=Secure, Contain, Protect. Derived from Federation Login by Aramis76
+Author=Comrade
+Copyright=
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=sddmfoundation.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=GlitchyFederation
+Theme-API=2.0
